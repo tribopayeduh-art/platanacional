@@ -1,0 +1,10 @@
+{
+  "name": "zerobet",
+  "description": "Nacional Bet — plataforma com identidade visual vermelho vinho",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
